@@ -1,0 +1,23 @@
+.app {
+  font-family: Arial, sans-serif;
+}
+
+.input {
+  padding: 0.5rem;
+  margin: 1rem 0;
+  font-size: 1rem;
+  width: 80%;
+  max-width: 400px;
+}
+
+.download-button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+img {
+  margin-top: 1rem;
+  width: 200px;
+  height: 200px;
+}
